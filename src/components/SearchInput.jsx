@@ -2,7 +2,6 @@ export const SearchInput = ({ searchValue, setSearchValue }) => {
   return (
     <>
       <div className="search-head">
-        <h1>WikipediA</h1>
         <br />
         <h3>The Free Encyclopedia</h3>
         <br />
